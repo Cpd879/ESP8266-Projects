@@ -51,8 +51,7 @@ Welcome to the ESP8266 Projects repository! This collection of projects demonstr
 
 - Arduino IDE: Install the Arduino IDE from [arduino.cc](https://www.arduino.cc/en/software).
 - ESP8266 Board Support: Follow the instructions to add ESP8266 board support in the Arduino IDE.
-- Additional Libraries: If any external libraries are used, provide instructions on how to install them.
-
+- Additional Libraries: DHT22 Library, Blynk Library.
 ### Uploading Code
 
 1. Clone this repository to your local machine.
