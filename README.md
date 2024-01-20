@@ -36,7 +36,7 @@ Welcome to the ESP8266 Projects repository! This collection of projects demonstr
       Your Wiring Is Ready.
    - *Usage*: Blinks The LED In An SOS Pattern.
 
-   5. **TemperatureInterfacingWIthESP8266: [TEMPERATUREINTERFACINGWITHESP8266]**
+6. **TemperatureInterfacingWIthESP8266: [TEMPERATUREINTERFACINGWITHESP8266]**
    - *Description*: Interfaces The DHT22 Temperature Sensor With ESP8266.
    - *Components*: DHT22 Temperature Sensor, 3 Jumper Wires, Breadboard, NodeMCU ESP8266.
    - *Wiring*: Connect The 3V3 Pin On The ESP8266 To The DHT22:VCC Pin On The Sensor.
