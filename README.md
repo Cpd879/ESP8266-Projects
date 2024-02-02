@@ -62,4 +62,4 @@ Welcome to the ESP8266 Projects repository! This collection of projects demonstr
 
 1. Clone this repository to your local machine.
    ```bash
-   git clone https://github.com/yourusername/ESP8266-Projects.git
+   git clone https://github.com/Cpd879/ESP8266-Projects.git
